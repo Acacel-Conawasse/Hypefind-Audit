@@ -12,7 +12,7 @@ def process_input(input_file, output_file):
         else:
             if current_entry:
                 # Join all non-empty lines in the current entry and add to the processed list
-                processed_lines.append('-'.join(current_entry))
+                processed_lines.append('#'.join(current_entry))
                 current_entry = []  # Reset for the next entry
     
     # Handle the last entry if there's no trailing newline in the file
