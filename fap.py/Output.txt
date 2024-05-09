@@ -1,0 +1,64 @@
+Everyone-Various
+Ad hoc labor level entries-Disallowed
+Wages-None-None
+Open an online form-Allowed
+Start a business process-Allowed
+Show Person Number-Disallowed
+View the Inbox-Allowed
+Access to task list-Allowed
+Messaging Access-Allowed
+Create a new message-Allowed
+Reply to a message-Allowed
+Open a message-Allowed
+Allow extended authentication on mobile device-Disallowed
+Extended authentication on mobile available without local authentication-Disallowed
+Local authentication on mobile available without fingerprint authentication-Disallowed
+Workforce Employee-Various
+Time Stamp for Employees-Various
+Transfers in Time Stamp-Allowed
+Perform account transfers-Allowed
+Perform work rule transfers-Allowed
+Perform job transfers-Allowed
+Cancel meal deductions in Time Stamp-Allowed
+Log off after stamping-Allowed
+Restrict punches based on punch restriction rules-Disallowed
+Record time stamp using badge number-Disallowed
+Allow punch from mobile application-Disallowed
+Punch from mobile available without local authentication-Disallowed
+Local authentication on mobile available without fingerprint authentication-Disallowed
+Allow badge entry from mobile application-Disallowed
+Calendar views for employees-Allowed
+Timecard Editor for Employees (My Timecard)-Various
+Allow negatives in My Timecard-Disallowed
+Approval in My Timecard-Disallowed
+Add-Disallowed
+Remove-Disallowed
+Approve overtime-Disallowed
+Request overtime-Disallowed
+Delete overtime request-Disallowed
+Cancel meal deductions in My Timecard-Allowed
+Comments in My Timecard-Disallowed
+Disallowed
+Notes for Comments in My Timecard-Disallowed
+Display day before and day after in My Timecard-Disallowed
+Hours Worked and Duration amounts in My Timecard-Disallowed
+Hours Worked and shift override in My Timecard-Disallowed
+Historical edits in My Timecard-Disallowed
+Manual edits-Disallowed
+Automated edits-Disallowed
+Move Amount-Disallowed
+E-mail access in My Timecard-Disallowed
+Pay Codes in My Timecard-Various
+Edit-Allowed
+View-Allowed
+Resolve Exceptions in My Timecard-Disallowed
+Move Amounts in My Timecard-Disallowed
+Justify My Missed Time Exceptions-Disallowed
+Punch edits in My Timecard-Disallowed
+Sign-off in My Timecard-Disallowed
+Add-Disallowed
+Remove-Disallowed
+Calculate totals in My Timecard-Allowed
+Totals breakdown in My Timecard-Allowed
+Calculate totals on-the-fly in My Timecard-Disallowed
+View totals by job in My Timecard-Disallowed

@@ -1,0 +1,123 @@
+JHHR - MRI | Selected Conditions [_ Add_|||Primary labor account matches */*/*/*/4803617451/*/* as of today|Employee employed and working as of today|
+JHHR - Nuclear Medicine | Selected Conditions [_ Add_|||Primary labor account matches */*/*/*/4803617421//* as of today|Employee employed and working as of today|
+JHHR - OnCall Hrs | 
+JHHR - Oncall Units | Selected Conditions Add||Primary labor account matches 10001925; 10001935; 10001936/"/"/4/*/"/* as of today|Employee employed and working as of today|
+JHHR - Physics and Engineering | Selected Conditions [_ Add_|||Primary labor account matches */*/*/*/4803610492/"/* as of today|Employee employed and working as of today|
+JHHR - Radiology Admin | Selected Conditions Add||Primary labor account matches */*/*/*/4803610090/** as of today|Employee employed and working as of today|
+JHHR - School of RADTECH | Selected Conditions Add||Primary labor account matches */*/*/*/4803610394/*/* as of today|Employee employed and working as of today|
+JHHR - Transport | 
+JHHR - Ultrasound | Selected Conditions Add||Primary labor account matches */*/*/*/4803617431/*/* as of today|Employee employed and working as of today|
+JHHR All Employees | 
+JHHR OR-WB OnCall Eligible | Selected Conditions {Add _)||Employee employed and working as of today|Primary job matches JHEN/HS01/480/361 - Radiology/10001935 - Inpatient Diagnostic/4803617413 - DIAGNOSTIC/OR-WB/RTTECH as of today|Primary job matches JHEN/HS01/480/361 - Radiology/10001935 - Inpatient Diagnostic/4803617413 - DIAGNOSTIC/OR-WB/SRTECH as of today|
+JHHR-Diagnostics-ED | 
+JHHR-Diagnostics-JHHR Diag. | 
+JHHR-Diagnostics-JHOC | 
+JHHR-Diagnostics-OR-WB | 
+JHHR-Diagnostics-PEDS | Selected Conditions {Add _)||Primary job matches JHEN/HS01/480/361 - Radiology/10001935 - Inpatient Diagnostic/4803617413 - DIAGNOSTIC/PEDS as of today|Employee employed and working as of today|
+JHHR-Diagnostics-PRN-WE | Selected Conditions [_ Add_|||Employee employed and working as of today|{Additional information Sub Location matches PRN-WE|
+JHHR-Diagnostics-Tower | 
+JHHR-Inpatient MRI-Blalock MRI | Selected Conditions Add||Primary job matches JHEN/HS01/480/361 - Radiology/10001936 - Inpatient MRI/4803617451 - MRI/Blalock MRI-CVMR 5 as of today|Employee employed and working as of today|
+JHHR-Inpatient MRI-JHHR MRI | Selected Conditions {Add _)||Primary job matches JHEN/HS01/480/361 - Radiology/10001936 - Inpatient MRI/4803617451 - MRI/JHHR MAl as of today|Employee employed and working as of today|
+JHHR-Inpatient MRI-JHOC 3FL | Selected Conditions {Add _)||Primary job matches JHEN/HS01/480/361 - Radiology/10001936 - Inpatient MRI/4803617451 - MRI/JHOC 3FL as of today|Employee employed and working as of today|
+JHHR-Inpatient MRI-MRI Build | Selected Conditions Add||Primary job matches JHEN/HS01/480/361 - Radiology/10001936 - Inpatient MRI/4803617451 -MRI/MRI Build as of today|Employee employed and working as of today|
+JHHR-Inpatient MRI-Zayed 1FL | 
+JHHR-Inpatient MRI-Zayed 3FL | 
+JHHR-Inpatient MRI-Zayed 4FL | 
+JHHR-Inpatient MRI-Zayed 5th | 
+JHHR-Nuc.Med-JHOC AN02 | Selected Conditions {Add _)||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/JHOC ANO2 as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-JHOC AN03 | Selected Conditions {Add _)||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/JHOC ANO3 as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-JHOC AN04 | 
+JHHR-Nuc.Med-JHOC AN05 | Selected Conditions {Add _)||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/JHOC ANOS as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-JHOC Cardiac | 
+JHHR-Nuc.Med-JHOC Charge | 
+JHHR-Nuc.Med-JHOC DEXA | 
+JHHR-Nuc.Med-Nel. Bsmt Charge | 
+JHHR-Nuc.Med-Nel. Bsmt NightQC | 
+JHHR-Nuc.Med-Nel. Bsmt NM01 | 
+JHHR-Nuc.Med-Nel. Bsmt NM02 | 
+JHHR-Nuc.Med-Nel. Bsmt NM03 | 
+JHHR-Nuc.Med-Nuclear Med | Selected Conditions {Add _)||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/JHHR Nuclear Med as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-PEDS | 
+JHHR-US-CLL-GR1 (Group A w/CC) | 
+JHHR-US-CLL-GR2 (Group B w/CC) | 
+JHHR-US-CLL-GR3 (Group C w/CC) | 
+JHHS Finance | 
+JHHS-4500080027-Supply Chain NCR | 
+JHHS-4500310304-Clinical Engr | Selected Conditions Add||Employee employed and working as of today|Primary labor account matches */*/4/*/4500310304/"* as of today|
+JHHS-Financial Clearance | 
+JHM Executive Payroll | 
+JHSC-4680020010-GS Pavillion II | 
+JHSC-4680020020-Knoll North | 
+JHSC-4680020030-White Marsh | 
+JHSC-4680020040-Lutherville | 
+JHSC-4680020050-Bethesda | 
+JHSC-4680020060-Bel Air | 
+JHSC-4680020070-Howard County | 
+JHSC-4680020080-Fertility Ctr ASC | 
+MKT - Global (Rename -'JHHS-Mkt') | 
+PHQ - Clinical Coordinator | 
+PHQ - Global Employees | 
+Potomac Home Health Care - HS13 | 
+Potomac Home Support - HS14 | 
+PTO Balance < 0 | 
+Terminated Employees - Global | 
+Terminated Employees - Global with Hrs | 
+Total Add'l Straight Time Hrs | 
+Total Callback Hours | 
+Total FMLA Hours | 
+Total Holiday Hours | 
+Total Oncall Hours | 
+Total Overtime Hours | 
+Total Paid Leave Hours | 
+JHHR - OnCall Hrs | Selected Conditions [_ Add_|||CLL hours worked is more than 0.00||Primary labor account matches 10001921; 10001922; 10001923; 10001924; 10001925; 10001935; 10001936; 10001939; 10001944; 10001945; 10001946; 10001947; 10003482; 10003484; 10003487; 10003488; 60002838; 60002884;|(60002885; 60002886/*/*/*/*/4/* as of today||Employee employed and working as of today|
+JHHR - Transport | Selected Conditions||Primary labor account matches */*/*/*/4803610482//* as of today|Employee employed and working as of today|
+JHHR All Employees | Selected Conditions||Employee employed and working as of today|Primary labor account matches 10001921; 10001922; 19001923; 10007924; 10001925; 10001935; 10001936; 10001928; 10007944; 10007945; 10001946; 10001847; 10003482; 10003484; 10003487; 10003488; 60002828; 6000284,|160002888; 60002886; 60007251; 60006067/"/*/¥/%/¥/* as of today|
+JHHR-Diagnostics-ED | 
+JHHR-Diagnostics-JHHR Diag. | 
+JHHR-Diagnostics-JHOC | Selected Conditions {Add _)||Primary job matches JHEN/HS01/480/361 - Radiology/10001935 - Inpatient Diagnostic/4803617413 - DIAGNOSTIC/JHOC as of today|Employee employed and working as of today|NOT(Full name is Fitzgerald, Lisa)|
+JHHR-Diagnostics-OR-WB | 
+JHHR-Diagnostics-Tower | 
+JHHR-Inpatient MRI-Zayed 1FL | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001936 - Inpatient MRI/4803617451 - MRI/Zayed 1FL as of today|Employee employed and working as of today|
+JHHR-Inpatient MRI-Zayed 3FL | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001936 - Inpatient MRI/4803617451 - MRI/Zayed 3FL as of today|Employee employed and working as of today|
+JHHR-Inpatient MRI-Zayed 4FL | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001936 - Inpatient MRI/4803617451 - MRI/Zayed 4FL as of today|Employee employed and working as of today|
+JHHR-Inpatient MRI-Zayed 5th | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001936 - Inpatient MRI/4803617451 - MRI/Zayed Sth as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-JHOC AN04 | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/JHOC ANO4 as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-JHOC Cardiac | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/JHOC Cardiac as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-JHOC Charge | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/JHOC Charge as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-JHOC DEXA | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/JHOC DEXA as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-Nel. Bsmt Charge | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/Nelson Basement Charge as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-Nel. Bsmt NightQC | Selected Conditions||Primary job matches JHEN/HS01/480/361 -Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/Nelson Basement Night QC as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-Nel. Bsmt NM01 | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/Nelson Basement NMO1 as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-Nel. Bsmt NM02 | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/Nelson Basement NMO2 as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-Nel. Bsmt NM03 | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/Nelson Basement NMO3 as of today|Employee employed and working as of today|
+JHHR-Nuc.Med-PEDS | Selected Conditions||Primary job matches JHEN/HS01/480/361 - Radiology/10001924 - Inpatient Nuclear Medicine/4803617421 - NUCLEAR MEDICINE/PEDS as of today|Employee employed and working as of today|
+JHHR-US-CLL-GR1 (Group A w/CC) | 
+JHHR-US-CLL-GR2 (Group B w/CC) | 
+JHHR-US-CLL-GR3 (Group C w/CC) | 
+JHHS Finance | Selected Conditions||Primary lor account matches */*/*/S3Q/*/*/* as of today|Employee employed and working as of today|
+JHHS-4500080027-Supply Chain NCR | Selected Conditions||Employee employed and working as of today|Primary labor account matches */*/*/*/4500080027//* as of today|
+JHHS-Financial Clearance | Selected Conditions||Primary labor account matches */*/4//4500170020; 4500030106/*/* as of today|Employee employed and working as of today|
+JHM Executive Payroll | Selected Conditions||Primary labor account matches */*/4/S00/4/*/* as of today|Employee employed and working as of today|
+JHSC-4680020010-GS Pavillion II | Selected Conditions Add||Employee employed and working as of today|Primary labor account matches */*/4/*/4680020010/** as of today|
+JHSC-4680020020-Knoll North | Selected Conditions||Employee employed and working as of today|Primary labor account matches */*/4/*/4680020020/1/* as of today|
+JHSC-4680020030-White Marsh | Selected Conditions||Employee employed and working as of today|Primary labor account matches */*/4/*/4680020030//* as of today|
+JHSC-4680020040-Lutherville | Selected Conditions||Employee employed and working as of today|Primary labor account matches */*/4/*/4680020040/%/* as of today|
+JHSC-4680020050-Bethesda | Selected Conditions Add||Employee employed and working as of today|Primary labor account matches */*/4/*/4680020050//* as of today|
+JHSC-4680020060-Bel Air | Selected Conditions||Employee employed and working as of today|Primary labor account matches */*/4/*/4680020060/*/* as of today|
+JHSC-4680020070-Howard County | Selected Conditions||Employee employed and working as of today|Primary labor account matches */*/4/*/4680020070/** as of today|
+JHSC-4680020080-Fertility Ctr ASC | Selected Conditions||Employee employed and working as of today|Primary labor account matches */*/4/*/4680020080/%/* as of today|
+MKT - Global (Rename -'JHHS-Mkt') | 
+PHQ - Clinical Coordinator | Selected Conditions Add||Primary labor account matches */*/70078200/*/*/+/* as of today|Employee employed and working as of today|
+PHQ - Global Employees | 
+Potomac Home Health Care - HS13 | 
+Potomac Home Support - HS14 | Selected Conditions [_ Add_|||Primary labor account matches */HS14/*/*/+/4/* as of today|Employee employed and working as of today|
+PTO Balance < 0 | Selected Conditions Add||PTO Balance balance is less than 0.00 hours|Employee employed and working as of today|
+Terminated Employees - Global | Selected Conditions [_ Add_|||NoT(Primary labor account matches */*/*/TL1; TL2; TL3; TL4; TLS; TL6; TL7; TL9/*/*/* as of today)|NoT(Employee employed and working as of today)|
+Terminated Employees - Global with Hrs | Selected Conditions {Add _)||'NoT(Primary labor account matches */+/*/TL1; TL2; TL3; TL4; TL; TL6; TL7; TL9/+/*/* as of today)|'NoT(Employee employed and working as of today)||Non Productive Hours hours worked is more than 0:00||PRODUCTIVE HOURS ONLY hours worked is more than 0:00|
+Total Add'l Straight Time Hrs | Selected Conditions Add||AST hours worked is more than 0.00|CBR hours worked is more than 0.00|'NoT(Emplayee no longer employed as of today)|Employee employed and working as of today|
+Total Callback Hours | Selected Conditions||Call Back hours worked is more than 0.00|NoT(Employee no longer employed as of today)|Employee employed and working as of today|
+Total FMLA Hours | Selected Conditions Add||HCGH Total FMLA Hours hours worked is more than 0.00.|Primary labor account matches */HS30; HS31; HS32/*/*/*/*/* as of today|
+Total Holiday Hours | 
+Total Oncall Hours | 
+Total Overtime Hours | Selected Conditions||OTP hours worked is more than 0.00|NoT(Employee no longer employed as of today)|Employee employed and working as of today|
+Total Paid Leave Hours | 

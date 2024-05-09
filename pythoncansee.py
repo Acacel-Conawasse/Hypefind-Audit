@@ -23,8 +23,17 @@ def process_line(line):
     pyautogui.click(1960, 346)  # Edit Hyperfind
     time.sleep(.5)
     
-    # Take a screenshot of the specified area
-    image = pyautogui.screenshot(region=(2045, 1100, 3145 - 2045, 1375 - 1100))
+
+    # Define the coordinates for the screenshot
+    x1, y1 = 2057, 1147
+    x2, y2 = 3371, 1353
+
+    # Calculate width and height for the region
+    width = x2 - x1
+    height = y2 - y1
+
+    # Taking a screenshot of the specified area
+    image = pyautogui.screenshot(region=(x1, y1, width, height))
     image.save("screenshot.png")  # Save the image for verification
     
     # Extract text using pytesseract
@@ -32,7 +41,7 @@ def process_line(line):
     
     # Write extracted text to Extracts.txt delimited by |
     
-    with open("Extracts.txt", "a") as file:
+    with open("Extractsmatt.txt", "a") as file:
         file.write(line + " | ")
         file.write(extracted_text.replace("\n", "|") + "\n")
     
@@ -55,7 +64,7 @@ def process_line(line):
     time.sleep(2)  # Wait for 2 seconds
 
 # Read lines from input.txt and process each
-with open("input1.txt", "r") as file:
+with open("matt.txt", "r") as file:
     for line in file:
         process_line(line.strip())
 
