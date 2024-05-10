@@ -1,0 +1,6 @@
+Everyone
+Wages
+Show Person Number
+Pay Codes in My Timecard
+Pay Codes in My Timecard-Edit
+Pay Codes in My Timecard-View

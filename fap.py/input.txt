@@ -1,163 +1,159 @@
-Everyone
+Everyone	 	 	 	 
 Various
 
-Ad hoc labor level entries  
+Home Page Personalization	 	 	 	 
 Disallowed
 
-Wages 
+Wages
 None
 None
 
-Open an online form  
-Allowed
+Rate in Totals AddOn
+Disallowed
 
-Start a business process
-Allowed
+Open an online form
+Disallowed
 
 Show Person Number
+Allowed
+
+Control Center
 Disallowed
 
-View the Inbox 
-Allowed
-
- Access to task list
-Allowed
-
- Messaging Access
-Allowed
-
-Create a new message
-Allowed
-
-Reply to a message 
-Allowed
-
-Open a message  
-Allowed
-
-Allow extended authentication on mobile device
+User Profile Picture Upload Access
 Disallowed
 
-Extended authentication on mobile available without local authentication 
+Downloads
 Disallowed
 
-Local authentication on mobile available without fingerprint authentication  
+View Hidden Accrual Policies
 Disallowed
 
-Workforce Employee 
+View New Features
+Disallowed
+
+Enable Community Search
+Disallowed
+
+Manage Team Activity Events
+Disallowed
+
+ View Team Activity Events
+Disallowed
+
+ Edit Team Activity Events
+Disallowed
+
+ Accept Team Activity Events
+Disallowed
+
+ Remove Acceptance for Team Activity Events
+Disallowed
+
+ Modify Inactive Team Activity Events
+Disallowed
+
+ View Team Activity Event Members
+Disallowed
+
+  Manage Activity Resource Events
+Disallowed
+
+ View Activity Resource Events
+Disallowed
+
+ Edit Activity Resource Events
+Disallowed
+
+ Accept Activity Resource Events
+Disallowed
+
+ Remove Acceptance for Activity Resource Events
+Disallowed
+
+ Modify Inactive Activity Resource Events
+Disallowed
+
+ Employee
 Various
 
-Time Stamp for Employees  
-Various
-
- Transfers in Time Stamp
-Allowed
-
-Perform account transfers 
-Allowed
-
-Perform work rule transfers
-Allowed
-
-Perform job transfers  
-Allowed
+Time Stamp for Employees
+Disallowed
 
  Cancel meal deductions in Time Stamp
-Allowed
+Disallowed
 
- Log off after stamping
-Allowed
-
- Restrict punches based on punch restriction rules 
+ Restrict punches based on punch restriction rules
 Disallowed
 
  Record time stamp using badge number
 Disallowed
 
- Allow punch from mobile application 
+ Allow scanning of QR codes
 Disallowed
 
- Punch from mobile available without local authentication 
-Disallowed
-
- Local authentication on mobile available without fingerprint authentication
-Disallowed
-
- Allow badge entry from mobile application  
-Disallowed
-
-Calendar views for employees
-Allowed
-
-  Timecard Editor for Employees (My Timecard) 
+ Calendar
 Various
 
- Allow negatives in My Timecard  
+ Calendar views for employees
+Disallowed
+
+ Print Schedule
+Allowed
+
+ Employee Visibility Periods
+Disallowed
+
+ Synchronize with My Schedule
+Disallowed
+
+Employee Preferences
+Disallowed
+
+My Absence Calendar
+Disallowed
+
+Timecard Editor for Employees (My Timecard)
+Various
+
+ Allow negatives in My Timecard
 Disallowed
 
  Approval in My Timecard
 Disallowed
 
-Add  
+Add
 Disallowed
 
 Remove
 Disallowed
 
-Approve overtime
+Approve overtime in Hourly Timecard
 Disallowed
 
-Request overtime
+Approve overtime in Project Timecard
 Disallowed
 
-Delete overtime request
+ Cancel meal deductions in My Timecard
 Disallowed
 
- Cancel meal deductions in My Timecard  
-Allowed
-
- Comments in My Timecard  
+Comments in My Timecard
+Disallowed
 Disallowed
 
-Disallowed
-  
  Notes for Comments in My Timecard
 Disallowed
 
- Display day before and day after in My Timecard
+ Hours Worked amount in My Timecard
 Disallowed
 
- Hours Worked and Duration amounts in My Timecard  
+  Pay Codes in My Timecard
 Disallowed
 
- Hours Worked and shift override in My Timecard
+Edit
 Disallowed
 
- Historical edits in My Timecard
-Disallowed
-
-Manual edits
-Disallowed
-
-Automated edits 
-Disallowed
-
-Move Amount 
-Disallowed
-
- E-mail access in My Timecard 
-Disallowed
-
-Pay Codes in My Timecard 
-Various
-
-Edit 
-Allowed
-
-View 
-Allowed
-
-Resolve Exceptions in My Timecard
+View
 Disallowed
 
 Move Amounts in My Timecard
@@ -169,25 +165,2935 @@ Disallowed
  Punch edits in My Timecard
 Disallowed
 
- Sign-off in My Timecard 
+ Signoff in My Timecard
 Disallowed
 
-Add  
+Add
 Disallowed
 
 Remove
 Disallowed
 
- Calculate totals in My Timecard 
-Allowed
-
- Totals breakdown in My Timecard 
-Allowed
-
- Calculate totals on-the-fly in My Timecard 
+ Calculate totals in My Timecard
 Disallowed
 
- View totals by job in My Timecard
+ Totals breakdown in My Timecard
+Disallowed
+
+ Calculate totals onthefly in My Timecard
+Disallowed
+
+ View schedules in My timecard
+Allowed
+
+ Edit nonactive days in My Timecard
+Disallowed
+
+ Accruals in My Timecard
+Disallowed
+
+Move accruals in My Timecard
+Disallowed
+
+Reset accruals in My Timecard
+Disallowed
+
+ Edits using scheduled amounts in My Timecard
+Disallowed
+
+  Reports in Timecard Editor
+Disallowed
+
+Rule Analysis Tool Report in Timecard editor
+Disallowed
+
+ View the Audit Trail Tab in My Timecard
+Allowed
+
+ Edits using contract amounts in My Timecard
+Disallowed
+
+ Display Projected Punches
+Disallowed
+
+ Automatically submit timecard edits for manager approval
+Disallowed
+
+ Restrict edit on days with pending timecard changes
+Disallowed
+
+ Activities in My Timecard
+Disallowed
+
+ View Activities and Team Memberships in My Timecard
+Disallowed
+
+ Event edits in Activities and Team Memberships
+Disallowed
+
+ Manage result
+Disallowed
+
+Comments in Activities
+Disallowed
+Disallowed
+
+ Notes For Comments in Activities
+Disallowed
+
+ Allow Time Period Entry in My Timecard
+Disallowed
+
+Accept Activities in My Timecard
+Disallowed
+
+Accept
+Disallowed
+
+Remove Acceptance
+Disallowed
+
+  Transfers
+Various
+
+ View transfers
+Allowed
+
+ Perform cost center transfers
+Disallowed
+
+ Perform labor category transfers
+Disallowed
+
+ Perform work rule transfers
+Disallowed
+
+ Perform job transfers
+Disallowed
+
+  Multiple Assignments
+Disallowed
+
+ Disable ability to perform assignment selection
+Disallowed
+
+Earning history for Employees
+Disallowed
+
+My Availability
+Disallowed
+
+Email Notifications to Employees
+Disallowed
+
+ Email when timecard edit occurs after employee's approval
+Disallowed
+
+ Email when timecard is approved
+Disallowed
+
+ Email when timecard is signedoff
+Disallowed
+
+Access to Employee Home Page
+Allowed
+
+Employee access to My Actions list
+Disallowed
+
+  Location Data
+Disallowed
+
+ Record location data
+Disallowed
+
+ View location data
+Disallowed
+
+ Allow punch without accurate geolocation
+Disallowed
+
+ Punch restrictions based on geofence area
+Disallowed
+
+ Punching outside of geofence area
+Disallowed
+
+ View entire Known Place area
+Disallowed
+
+My Attendance
+Disallowed
+
+Enable location schedule
+Disallowed
+
+Leave Cases for Employees
+Disallowed
+
+ Manage Leave Time in My Timecard
+Disallowed
+
+Continuous cases
+Disallowed
+Disallowed
+Disallowed
+
+Intermittent cases
+Disallowed
+Disallowed
+Disallowed
+
+ Enable rule assignment upon Leave Case Request approval
+Disallowed
+
+My Case Requests
+Disallowed
+
+Activity Form Entry
+Disallowed
+
+Access unposted schedule
+Disallowed
+
+My Requests
+Disallowed
+
+ Edits to signed off time
+Disallowed
+
+ Edit signed off time
+Disallowed
+
+ Allow override of correction effective date
+Disallowed
+
+ Allow override of Include In Totals
+Disallowed
+
+ Allow override of correction wage pay code
+Disallowed
+
+Comments & Notes in my request
+Disallowed
+
+Impersonation Access
+Allowed
+
+ Offline
+Disallowed
+
+ Mobile App Punch
+Disallowed
+
+Kiosk
+Disallowed
+
+ Start Kiosk
+Disallowed
+
+ Copy Kiosk
+Disallowed
+
+ Access Kiosk
+Disallowed
+
+Attestation
+Disallowed
+
+ Allow punch edits from Attestation
+Disallowed
+
+ Allow bypass of timecard permissions during Attestation
+Disallowed
+
+Hide Break Segments
+Disallowed
+
+ Manager  Department Manager
+Various
+
+Dataviews  Group Edits
+Disallowed
+
+ Apply group edit to self
+Disallowed
+
+ Accruals payout
+Disallowed
+
+ Accruals reset
+Disallowed
+
+ Accruals suspensions & reinstatements
+Disallowed
+
+ Accruals update earned
+Disallowed
+
+ Allow negatives in Dataviews
+Disallowed
+
+Group approval of timecards
+Disallowed
+
+Add
+Disallowed
+
+Remove
+Disallowed
+
+Remove All
+Disallowed
+
+Edit data after non account approval by self
+Disallowed
+
+Edit data after non account approval by others
+Disallowed
+
+Approve overtime
+Disallowed
+
+Approve All Pending Timecard Change Requests
+Disallowed
+
+ Comments in Dataviews
+Disallowed
+
+ Notes for comments in Dataviews
+Disallowed
+
+ Hours Worked amount in Dataviews
+Disallowed
+
+ Filter by Selected Job Seniority
+Disallowed
+
+ Pay code edits in Dataviews
+Disallowed
+
+ Payroll lock in Dataviews
+Disallowed
+
+ Mark Exceptions as Reviewed
+Disallowed
+
+Pay from Schedule in Dataviews
+Disallowed
+
+Start Pay from Schedule
+Disallowed
+
+Stop Pay from Schedule
+Disallowed
+
+ Punch edits in Dataviews
+Disallowed
+
+ Signoff in Dataviews
+Disallowed
+
+Add
+Disallowed
+
+Remove
+Disallowed
+
+  Transfers in Dataviews
+Disallowed
+
+Perform labor category transfers
+Disallowed
+
+Perform cost center transfers
+Disallowed
+
+Perform work rule transfers
+Disallowed
+
+Perform job transfers
+Disallowed
+
+ Edits using scheduled amounts in Dataviews
+Disallowed
+
+ Edit nonactive days in Dataviews
+Disallowed
+
+ Override punch restrictions
+Disallowed
+
+ Edits using contract amounts
+Disallowed
+
+ Override of accruals days
+Disallowed
+
+ Start Time on pay code edits
+Disallowed
+
+ Allocate Hours
+Disallowed
+
+ Process Time For Payroll
+Disallowed
+
+  Activities Actions
+Disallowed
+
+Create New Hourly Activity
+Disallowed
+
+Stop Existing Open Activity
+Disallowed
+
+Create New Duration Activity
+Disallowed
+
+Log Off All Activities
+Disallowed
+
+Assign or Unassign Employees to Activities
+Disallowed
+
+ Scheduling
+Disallowed
+
+ Open Shift Available Notification
+Disallowed
+
+Schedule access
+None
+Disallowed
+
+ Filter Location by Employee Group
+Disallowed
+
+ Schedule Views
+Disallowed
+
+Employment Term View of Schedule
+Disallowed
+
+Employee View of Schedule
+Disallowed
+
+Group View of Schedule
+Disallowed
+
+Job View of Schedule
+Disallowed
+
+ Display Locationbased Addon Data when Employee Group Filtering Enabled
+Disallowed
+
+ Run reports within Schedule Planner
+Disallowed
+
+ Pay Code Comments in Schedules
+Disallowed
+
+ Notes for Pay Code Comments in Schedules
+Disallowed
+
+Employee Self Service preferences
+None
+Disallowed
+
+ Schedule Quick Actions
+Disallowed
+
+Add segment tag
+Disallowed
+
+ Schedule pay code edits
+Disallowed
+
+ Paycode Analyzer
+Disallowed
+
+ Delete Predictive Tags
+Disallowed
+
+ Restore Predictive Tags
+Disallowed
+
+ View audit trails in Schedules
+Disallowed
+
+ Filter audit trails in Schedules
+Disallowed
+
+Transfers in Schedules
+Disallowed
+
+Perform labor category transfers
+Disallowed
+
+Perform cost center transfers
+Disallowed
+
+Perform work rule transfers
+Disallowed
+
+Perform job transfers
+Disallowed
+
+ Schedule Shift Comments
+Disallowed
+
+ Notes for Schedule Shift Comments
+Disallowed
+
+ Mark Schedule Posted
+Disallowed
+
+ Mark Schedule Unposted
+Disallowed
+
+ Availability
+Disallowed
+
+ Workload Planner
+Disallowed
+
+Budget Pattern
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Budget Calendar
+Disallowed
+Disallowed
+
+Plan Pattern
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Plan Calendar
+Disallowed
+Disallowed
+
+Budget Volume
+Disallowed
+Disallowed
+
+Plan Volume
+Disallowed
+Disallowed
+
+Actual Volume
+Disallowed
+Disallowed
+
+Actual Calendar
+Disallowed
+Disallowed
+
+Generate Workload
+Disallowed
+
+Lock Volume
+Disallowed
+
+ Run Priority Scheduling Engine
+Disallowed
+
+ Run Schedule Engine
+Disallowed
+
+ Schedule pay code edits in full days
+Disallowed
+
+ Schedule Day Lock
+Disallowed
+
+ Work Week
+Disallowed
+
+Create Work Week
+Disallowed
+Disallowed
+
+Assign Work Week
+Disallowed
+Disallowed
+
+Shift Profile Sets
+Disallowed
+Disallowed
+
+ Schedule pay code edits in half days
+Disallowed
+
+Shift Profiles
+Disallowed
+Disallowed
+
+ Pay Code Edits using Contract Amounts
+Disallowed
+
+ Enter Time Off
+Disallowed
+
+ Enter Time Off in a signed off period
+Disallowed
+
+ Override accrual amounts for Pay Code Edits
+Disallowed
+
+ Pay Code Edits using Pattern Day
+Disallowed
+
+ MultiEdit
+Disallowed
+
+ Assign Employment Terms
+Disallowed
+
+ Unassign Employment Terms
+Disallowed
+
+ Add to Schedule Group
+Disallowed
+
+ Remove from Schedule Group
+Disallowed
+
+ Edit Group Schedules
+Disallowed
+
+ Lock Shifts
+Disallowed
+
+ Assign Breaks
+Disallowed
+
+ Team Definition Setup
+Disallowed
+
+ Team Definition Setup Extended Access
+Disallowed
+
+ Guided Recommendations
+Disallowed
+
+ Replace shift
+Disallowed
+
+ Append shift
+Disallowed
+
+ Insert transfer
+Disallowed
+
+  Employee Visibility Periods
+Disallowed
+
+Request Submission Control
+Disallowed
+
+Request Period Extended Access
+Disallowed
+
+Recurrent / Rolling periods
+Disallowed
+
+MultiGroup options
+Disallowed
+
+Employee Priority option
+Disallowed
+
+Personal Hyperfinds for Employee Query
+Disallowed
+
+Visibility Period Actions
+Disallowed
+
+ Call Log
+Disallowed
+
+ Call List
+Disallowed
+
+Group Edit Results
+Disallowed
+
+Calendar views for Managers
+Disallowed
+
+  Timecard Editor for Managers
+Disallowed
+
+Timecard access
+None
+
+ Allow negatives in Timecard Editor
+Disallowed
+
+  Approval in Timecard Editor
+Disallowed
+
+Add
+Disallowed
+
+Remove
+Disallowed
+
+Remove All
+Disallowed
+
+Edit data after non account approval by self
+Disallowed
+
+Edit data after non account approval by others
+Disallowed
+
+Approve overtime in Hourly Timecard
+Disallowed
+
+Approve overtime in Project Timecard
+Disallowed
+
+ Cancel meal deductions in Timecard Editor
+Disallowed
+
+Comments in Timecard Editor
+Disallowed
+Disallowed
+
+  Notes for Comments in Timecard Editor
+Disallowed
+
+Add or Remove
+Disallowed
+
+Remove Notes added by Others
+Disallowed
+
+ Hours Worked amount in Timecard Editor
+Disallowed
+
+ Pay codes in Timecard Editor
+Disallowed
+
+Edit
+Disallowed
+
+View
+Disallowed
+
+Move Amount
+Disallowed
+
+Override of accruals days
+Disallowed
+
+Start Time on pay code edits
+Disallowed
+
+Justify Missed Time Exceptions
+Disallowed
+
+Mark Exceptions Reviewed in Timecard Editor
+Disallowed
+
+ Punch edits in Timecard Editor
+Disallowed
+
+Signoff in Timecard Editor
+Disallowed
+
+Add
+Disallowed
+
+Remove
+Disallowed
+
+ Calculate totals in Timecard Editor
+Disallowed
+
+ Totals breakdown in Timecard Editor
+Disallowed
+
+ Calculate totals onthefly in Timecard Editor
+Disallowed
+
+ Transfers in Timecard Editor
+Disallowed
+
+View transfers
+Disallowed
+
+Perform cost center transfers
+Disallowed
+
+Perform labor category transfers
+Disallowed
+
+Perform work rule transfers
+Disallowed
+
+Perform job transfers
+Disallowed
+
+ View schedules in Timecard Editor
+Disallowed
+
+ Edit nonactive days in Timecard Editor
+Disallowed
+
+ Accruals in Timecard Editor
+Disallowed
+
+Move Accruals in Timecard Editor
+Disallowed
+
+Reset Accruals in Timecard Editor
+Disallowed
+
+Timecard Accrual Pay Out
+Disallowed
+
+ Edits using scheduled amounts in the Timecard Editor
+Disallowed
+
+ Reports in Timecard Editor
+Disallowed
+
+Rule Analysis Tool Report in Timecard editor
+Disallowed
+
+Analyze Accruals Tool Report in Timecard editor
+Disallowed
+
+ View the Audit Trail Tab in Timecard Editor
+Disallowed
+
+ Edits using contract amounts in the Timecard Editor
+Disallowed
+
+ Enable Job Transfer Validation
+Disallowed
+
+ Display Projected Punches
+Disallowed
+
+ Restrict edit on days with pending timecard changes
+Disallowed
+
+ Edit schedules in Timecard Editor
+Disallowed
+
+ Edit Punch Location Information
+Disallowed
+
+ Bypass permissions for approving pending timecard changes
+Disallowed
+
+ Multiple Assignments
+Disallowed
+
+ Disable ability to perform assignment selection
+Disallowed
+
+  Activities in Timecard Editor
+Disallowed
+
+ View Activities and Team Memberships in Timecard Editor
+Disallowed
+
+ Event edits in Activities and Team Memberships
+Disallowed
+
+ Manage result
+Disallowed
+
+Comments in Activities
+Disallowed
+Disallowed
+
+Notes For Comments in Activities
+Disallowed
+
+Add or Remove
+Disallowed
+
+Remove Notes added by Others
+Disallowed
+
+ Allow Time Period Entry in Timecard Editor
+Disallowed
+
+Accept Activities in Timecard Editor
+Disallowed
+
+Accept
+Disallowed
+
+Remove Acceptance
+Disallowed
+
+Reports
+Disallowed
+
+ Run reports
+Disallowed
+
+ Report scheduling
+Disallowed
+
+ + Report setup
+Disallowed
+
+ Schedule reports for others
+Disallowed
+
+ Report Scheduling: All Access
+Disallowed
+
+ Report Page
+Disallowed
+
+ Schedule report delivery to email as attachment
+Disallowed
+
+Email Notifications to Managers
+Disallowed
+
+ Email a completed group edit
+Disallowed
+
+ Email when a group edit was not completed
+Disallowed
+
+ Email when event status has changed
+Disallowed
+
+Access to HR/Payroll for Managers
+Disallowed
+
+Manager access to Actions list
+Disallowed
+
+  Forecasting
+Disallowed
+
+ Run Volume Forecast
+Disallowed
+
+ Run Labor Forecast
+Disallowed
+
+ Run Earned Hours
+Disallowed
+
+ Run Labor Constraint
+Disallowed
+
+ Export Forecast Planner Data
+Disallowed
+
+  Forecast Planner
+Disallowed
+
+Volume Forecast
+Disallowed
+Disallowed
+
+Restore Volume
+Disallowed
+
+Labor Forecast
+Disallowed
+Disallowed
+
+Change Currency
+Disallowed
+
+Volume Forecast Details
+Disallowed
+Disallowed
+
+Volume Analyzer
+Disallowed
+
+ Machine Learning Model Explorer
+Disallowed
+
+ Machine Learning Daily Explorer
+Disallowed
+
+ Labor Forecast Analyzer
+Disallowed
+
+Actual Volume (POS)
+Disallowed
+Disallowed
+
+Operational Dashboard
+Disallowed
+
+Operational Dashboard Access
+Disallowed
+
+Operational Dashboard Hours Types
+Disallowed
+
+ View Budget Hours and Costs
+Disallowed
+
+ View Forecasted Hours
+Disallowed
+
+ View Earned Hours
+Disallowed
+
+ View Scheduled Hours and Costs
+Disallowed
+
+ View Actual Hours and Costs
+Disallowed
+
+ View System Adjusted Hours
+Disallowed
+
+Display Currency Option
+Disallowed
+
+Custom Driver Data
+Disallowed
+Disallowed
+
+Traffic Pattern
+Disallowed
+Disallowed
+
+ Peak Hours
+Disallowed
+
+Adjustment Driver Data
+Disallowed
+Disallowed
+
+Labor Period Override
+Disallowed
+Disallowed
+
+Volume Budget
+Disallowed
+Disallowed
+
+Labor Budget
+Disallowed
+Disallowed
+
+ Attendance for Managers
+Disallowed
+
+ View Audit Data
+Disallowed
+
+ Perfect attendance definitions
+Disallowed
+
+ Source policy
+Disallowed
+
+Attendance Actions
+None
+
+ Apply Rules
+None
+
+Attendance Balance Resets and Adjustments
+None
+None
+
+Attendance Events
+None
+None
+None
+
+ Refine Filters
+Disallowed
+
+Global Filters
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Custom Filters
+Disallowed
+
+Attendance History and Timecard Markers
+None
+
+ Access to Attendance Detail Page and Calendar
+Disallowed
+
+ Forward Attendance Documents
+Disallowed
+
+ View Attendance Documents
+Disallowed
+
+Location Data
+Disallowed
+
+ View location data
+Disallowed
+
+Location Data
+Disallowed
+
+ View location data
+Disallowed
+
+ Manage Leave Case
+None
+
+Add Leave Case
+None
+
+Delete Leave Case
+None
+
+ Leave Case Details
+None
+
+Case Details
+None
+
+Case Defaults
+None
+
+
+Leave Case Eligibility and Rules
+None
+
+ Edit eligibility
+None
+
+ Grant Leave
+None
+
+Rule assignment
+None
+None
+None
+
+Leave Case Custom Rule
+None
+None
+
+Edit Leave Case Frequency and Duration
+None
+
+  Leave Case Documents
+None
+
+ Forward documents
+None
+
+ Manage documents
+None
+
+ View documents
+None
+
+Leave Case Additional Information
+None
+
+Leave Case Notes
+None
+None
+None
+None
+
+ Leave Case Notifications
+None
+
+Datebased Notifications
+None
+None
+None
+
+Limitbased Notifications
+None
+None
+None
+
+ Leave of Absence Time
+Disallowed
+
+ Leave time in Timecard Editor
+Disallowed
+
+Continuous cases
+Disallowed
+Disallowed
+Disallowed
+
+Intermittent cases
+Disallowed
+Disallowed
+Disallowed
+
+Leave time in Scheduling
+Disallowed
+
+Continuous cases
+Disallowed
+Disallowed
+Disallowed
+
+Intermittent cases
+Disallowed
+Disallowed
+Disallowed
+
+  Leave time actions
+Disallowed
+
+  Commit to Timecard
+Disallowed
+
+Commit time into Timecard
+Disallowed
+
+Perform Timecard Transfer
+Disallowed
+
+ Perform labor category transfers
+Disallowed
+
+ Perform cost center transfers
+Disallowed
+
+ Perform job transfers
+Disallowed
+
+  Commit to Schedule
+Disallowed
+
+Commit time into Schedule
+Disallowed
+
+  Perform Scheduled Transfer
+Disallowed
+
+ Perform labor category transfers
+Disallowed
+
+ Perform cost center transfers
+Disallowed
+
+ Perform job transfers
+Disallowed
+
+ Delete leave time
+Disallowed
+
+ Add time to Continuous cases
+Disallowed
+
+ Add time to Intermittent cases
+Disallowed
+
+ Override takings
+Disallowed
+
+ Override Default Days Inclusion
+Disallowed
+
+ Access to Leave APIs
+Disallowed
+
+Accrual Transition Manager
+None
+
+ Edits to signed off time
+Disallowed
+
+ Edit signed off time
+Disallowed
+
+ Allow override of Include In Totals
+Disallowed
+
+ Allow enable edits for employees
+Disallowed
+
+ Allow override of correction effective date
+Disallowed
+
+ Allow override of correction wage pay code
+Disallowed
+
+ Approve requests in signed off time
+Disallowed
+
+Dataview Personalization
+Disallowed
+
+Include inactive and terminated employees into search result
+Disallowed
+
+Employee Search
+Disallowed
+
+ Notices
+Disallowed
+
+ Send to selected employees
+Disallowed
+
+ Send to all
+Disallowed
+
+ Overtime Group Approvals
+Disallowed
+
+ Overtime Group Approvals Landing Page
+Disallowed
+
+ Overtime Group Approvals Reset All
+Disallowed
+
+ Kiosk
+Disallowed
+
+ Start Kiosk
+Disallowed
+
+ Copy Kiosk
+Disallowed
+
+Manager access to Business Process Library
+Disallowed
+
+People Editor Picture Upload Access
+Disallowed
+
+  SignOff Preparation
+Disallowed
+
+ Enable/Disable SignOff Preparation
+Disallowed
+
+ Edit during SignOff Preparation
+Disallowed
+
+Comments in Requests
+Allowed
+
+Notes for Comments in Requests
+Allowed
+
+ Manager  Common Setup
+Various
+
+ Hyperfind
+Disallowed
+
+ Query conditions
+Disallowed
+
+Display Business Structure & Job Information in Hyperfind
+Disallowed
+
+General Information category
+Disallowed
+
+Timekeeper category
+Disallowed
+
+Time Management category
+Disallowed
+
+Biometric category
+Disallowed
+
+Scheduler category
+Disallowed
+
+Advanced Scheduler category
+Disallowed
+
+Activities category
+Disallowed
+
+Leave Management category
+Disallowed
+
+User Information category
+Disallowed
+
+Role  Timekeeper category
+Disallowed
+
+Workforce Leave category
+Disallowed
+
+Business Processes
+Disallowed
+
+TeleTime IP category
+Disallowed
+
+Attendance Category
+Disallowed
+
+Assignments Conditions
+Disallowed
+
+  Query tabs
+Disallowed
+
+Assemble Query tab
+Disallowed
+
+Query visibility
+Disallowed
+
+Ad hoc queries
+Disallowed
+
+Personal queries
+Disallowed
+Disallowed
+
+Public queries
+Disallowed
+Disallowed
+
+ Query Manager
+Disallowed
+
+ Import Personal Hyperfind
+Disallowed
+
+  People Editor
+Various
+
+Person
+Disallowed
+
+None
+
+ Delete
+None
+
+Delete without transactions
+None
+
+Delete with transactions
+None
+
+License view
+Disallowed
+Disallowed
+
+Employee Group
+Disallowed
+
+Information view
+Disallowed
+
+Birth date
+Disallowed
+Disallowed
+
+Person name
+Disallowed
+
+Person ID
+Disallowed
+
+Hire date
+Disallowed
+Disallowed
+
+Employment status
+Disallowed
+
+Analytics Labor Type
+Disallowed
+Disallowed
+
+Access user account
+Disallowed
+
+User name
+Disallowed
+Disallowed
+
+Other fields
+Disallowed
+Disallowed
+
+User account status
+Disallowed
+
+Lock out access control
+Disallowed
+
+MFA required
+Disallowed
+
+API Only User
+Disallowed
+
+ Archive access control
+Disallowed
+
+Primary Labor Category
+Disallowed
+Disallowed
+
+Primary Job
+Disallowed
+Disallowed
+
+Time Zone
+Disallowed
+Disallowed
+
+Reports To
+Disallowed
+
+Reports To Field
+Disallowed
+Disallowed
+
+Manager ID Column
+Disallowed
+
+Seniority Date
+Disallowed
+Disallowed
+
+ Contact Information view
+Disallowed
+
+Address
+Disallowed
+Disallowed
+
+Email
+Disallowed
+Disallowed
+
+Telephone
+Disallowed
+Disallowed
+
+Generic Workflows
+Disallowed
+Disallowed
+
+Additional Information view
+Disallowed
+Disallowed
+
+Person's Dates View
+Disallowed
+Disallowed
+
+Assign process profiles
+Disallowed
+Disallowed
+
+Access Profiles view
+Disallowed
+Disallowed
+
+Devices Group
+Disallowed
+
+TeleTime IP view
+Disallowed
+
+Timekeeping Group
+Various
+
+Approvals & Reviewers view
+Disallowed
+Disallowed
+
+Timekeeper view
+Disallowed
+
+ Percent Allocation Assignment
+Disallowed
+
+Adjustment Rule Assignment
+Disallowed
+Disallowed
+
+Personal Overtime view
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+ Employee Self Service View
+Disallowed
+
+ Employment Terms view
+Disallowed
+
+Assigned Currency
+Disallowed
+
+Manager Role  General view
+Disallowed
+Disallowed
+
+Employee Role view
+Disallowed
+Disallowed
+
+Tips and Tokes view
+Disallowed
+
+Tip Compliance Assignment
+Disallowed
+Disallowed
+
+Toke Pool Rule Assignment
+Disallowed
+Disallowed
+
+Job Preference and Scheduling Context
+Disallowed
+Disallowed
+
+Employee Job Transfer Set
+Allowed
+
+Allowed
+
+Allowed
+
+Allowed
+
+Scheduling Group
+Disallowed
+
+Scheduler view
+Disallowed
+Disallowed
+
+Manager Role  Schedule view
+Disallowed
+Disallowed
+
+Skills & Certifications view
+Disallowed
+
+Skills on a person
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Certifications on a person
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Schedule Rule Overrides
+Disallowed
+
+Employee Preferences
+Disallowed
+Disallowed
+
+ Accruals Group
+Disallowed
+
+Accrual profile
+Disallowed
+Disallowed
+
+FullTime equivalency
+Disallowed
+Disallowed
+
+ Activities Group
+Disallowed
+
+Activities
+Disallowed
+Disallowed
+
+Defaults
+Disallowed
+Disallowed
+
+  Leave Group
+Disallowed
+
+Leave Management
+Disallowed
+Disallowed
+
+ Attendance Group
+Disallowed
+
+Attendance View
+Disallowed
+Disallowed
+
+  Assignments group
+Disallowed
+
+Assignments  General View
+Disallowed
+Disallowed
+
+Organizational Set Editor
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Jobs and Business Structure
+Disallowed
+
+ Location Types Tab
+Disallowed
+
+ Job & Business Structure Setup Tabs
+Disallowed
+
+Worker Type
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+  Event Manager
+Disallowed
+
+ Add batch event
+Disallowed
+
+ Change user
+Disallowed
+
+ Individual events
+None
+
+ Table Import
+Disallowed
+
+ Create and run table import batches
+Disallowed
+
+ Delete table import data
+Disallowed
+
+ Schedule table import batches
+Disallowed
+
+ Stop/restart table import batches
+Disallowed
+
+Transaction Assistant
+Disallowed
+Disallowed
+Disallowed
+
+  Biometrics
+Disallowed
+
+Access to Biometrics Administration
+Disallowed
+Disallowed
+
+Schedule Configuration
+Disallowed
+
+Schedule Rules
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+ Skills & Certifications
+Disallowed
+
+Certifications
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Skills
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+ Proficiency Level Setup
+Disallowed
+
+ Skill & Certification Profiles
+Disallowed
+
+ Workload Setup
+Disallowed
+
+Schedule Zone Sets
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Workload Shift Sets
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Workload Planner Profiles
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Pattern Templates Configuration
+Disallowed
+Disallowed
+Disallowed
+
+Schedule Period Configuration
+Disallowed
+Disallowed
+
+Shift Template Configuration
+Disallowed
+Disallowed
+Disallowed
+
+ Schedule Groups Configuration
+Disallowed
+
+Create schedule groups
+Disallowed
+
+Delete schedule groups
+Disallowed
+
+Edit Group Names
+Disallowed
+
+Sorting and Matching
+Disallowed
+Disallowed
+
+View Audit Trails in Priority Scheduling Engine
+Disallowed
+
+ Location Settings
+Disallowed
+
+ Metrics Setup
+Disallowed
+
+Schedule Score Setup
+Disallowed
+
+Factor Deactivation
+Disallowed
+
+Schedule Score Definition
+Disallowed
+
+Job Groups Configuration
+Disallowed
+Disallowed
+
+ Staffing Dashboard Setup
+Disallowed
+
+ Staffing Profile
+Disallowed
+
+Staffing Matrix Configuration
+Disallowed
+Disallowed
+
+Weight Set Configuration
+Disallowed
+Disallowed
+
+Day Type Configuration
+Disallowed
+Disallowed
+
+ Schedule Planner Setup
+Disallowed
+
+Scheduler Profiles
+Disallowed
+
+School Calendar Profiles
+Disallowed
+Disallowed
+
+ Manager Tile
+Disallowed
+
+ Tag Definition Setup
+Disallowed
+
+ Predictive Scheduling Setup
+Disallowed
+
+Shift Builder Criteria
+Disallowed
+Disallowed
+
+Hyperfind Profiles
+Disallowed
+
+  Process Management setup
+Disallowed
+
+ Process Administration Access
+Disallowed
+
+Add templates to process profiles
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+ Business Processes
+Disallowed
+
+ Web Service Configuration access
+Disallowed
+
+ Create New Process Models
+Disallowed
+
+ Process Models
+Disallowed
+
+ Deploy Process Models
+Disallowed
+
+Calendar Views Setup
+Disallowed
+
+  Activities Configuration
+Disallowed
+
+ Activities Setup
+Disallowed
+
+Full Activities Setup
+Disallowed
+
+Manager Activities Setup
+Disallowed
+
+Limited Manager Activities Setup
+Disallowed
+Disallowed
+
+Manager Edit Activity List Queries
+Disallowed
+
+Manager Create or Edit Activity Team
+Disallowed
+
+Delegate Profiles
+Disallowed
+
+Override Alert Event Configuration
+Disallowed
+
+Role Profiles
+Disallowed
+
+Integrations
+Disallowed
+
+ Install Integrations
+Disallowed
+
+Install and configure integrations
+Disallowed
+Disallowed
+Disallowed
+
+Run integrations
+Disallowed
+
+  Schedule integrations configuration
+Disallowed
+
+Schedule integrations
+Disallowed
+Disallowed
+Disallowed
+
+ View my integration runs only
+Disallowed
+
+View integration results
+Disallowed
+
+Reference tables
+Disallowed
+Disallowed
+
+ View the files of an integration displayed in the integration run details
+Disallowed
+
+ Manage Integration Properties
+Disallowed
+
+ Manage SFTP
+Disallowed
+
+Payroll Setup
+Disallowed
+
+Payroll Code Mapping
+Disallowed
+
+Payroll Configuration
+Disallowed
+
+Accrual Code Mapping
+Disallowed
+
+Accrual Transaction Mapping
+Disallowed
+
+General Ledger Mapping
+Disallowed
+
+Workforce Attendance Setup
+Disallowed
+
+Workforce Leave Setup
+Disallowed
+
+Dataview Management
+Disallowed
+Disallowed
+Disallowed
+
+Schedule Group Edit
+Disallowed
+
+ Comment in schedule paycode
+Disallowed
+
+ Notes for comments in schedule paycode
+Disallowed
+
+ Comment in schedule shift
+Disallowed
+
+ Notes for comments in schedule shift
+Disallowed
+
+  Schedule shift
+Disallowed
+
+Add shift
+Disallowed
+
+ Schedule pay code edit
+Disallowed
+
+ Schedule pattern
+Disallowed
+
+ Delete all schedule patterns
+Disallowed
+
+ Schedule day lock
+Disallowed
+
+  Groups
+Disallowed
+
+Add to group
+Disallowed
+
+Remove from group
+Disallowed
+
+Design integrations
+Disallowed
+
+  Developer Portal
+Disallowed
+
+ Administration Access
+Disallowed
+
+ Developer Access
+Disallowed
+
+Reviewer Lists and Reviewer Purposes
+Disallowed
+
+Hours of Operation
+Disallowed
+
+Create Regular Hours
+Disallowed
+Disallowed
+
+Assign Hours of Operation
+Disallowed
+Disallowed
+
+Create Override Hours
+Disallowed
+Disallowed
+
+Unrestrict the edit of Hours of Operation
+Disallowed
+
+Unrestrict the edit of Override Hours of Operation
+Disallowed
+
+Known Places
+Disallowed
+
+ Forecast Configuration
+Disallowed
+
+Forecast Category Attributes
+Disallowed
+Disallowed
+
+Machine Learning
+Disallowed
+Disallowed
+
+ Category Property Sets
+Disallowed
+
+Create Category Property Sets
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Assign Category Property Sets
+Disallowed
+Disallowed
+
+Volume Drivers
+Disallowed
+
+Create Volume Drivers
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Assign Volume Drivers
+Disallowed
+Disallowed
+
+Labor Drivers
+Disallowed
+
+Create Custom Drivers
+Disallowed
+Disallowed
+
+Create Static Drivers
+Disallowed
+Disallowed
+
+Assign Static Drivers
+Disallowed
 Disallowed
 
 
+  Special Events
+Disallowed
+
+Create Special Events
+Disallowed
+Disallowed
+Disallowed
+Disallowed
+
+Assign Special Events
+Disallowed
+Disallowed
+
+Adjustment Drivers
+Disallowed
+Disallowed
+
+Labor Standards
+Disallowed
+Disallowed
+
+  Labor Standard Components
+Disallowed
+
+Store Specific Labor Standards
+Disallowed
+Disallowed
+Disallowed
+
+Generic Labor Standards
+Disallowed
+Disallowed
+Disallowed
+
+ Labor Standard fields
+Disallowed
+
+Name and Description
+Disallowed
+
+Store Type
+Disallowed
+
+Effective Dates
+Disallowed
+
+Labor Driver
+Disallowed
+
+ Time value
+Disallowed
+
+Fixed Time value
+Disallowed
+
+Negative Fixed Time Value
+Disallowed
+
+  Scaled Time value
+Disallowed
+
+Volume Data for Scaled Time value
+Disallowed
+
+Time Scale for Scaled Time value
+Disallowed
+
+Negative Scaled Time Value
+Disallowed
+
+Labor Standard Adjustment
+Disallowed
+
+ Labor Period
+Disallowed
+
+Labor Period Hours
+Disallowed
+
+Traffic Pattern for Labor Period
+Disallowed
+
+Traffic Pattern Distribute Evenly for Labor Period
+Disallowed
+
+Distribute by Traffic Pattern Evenly for Labor Period
+Disallowed
+
+Labor Distribution for Labor Period
+Disallowed
+
+Enable or Disable Effective Labor Standard
+Disallowed
+
+ Tasks and Task Groups
+Disallowed
+
+Tasks
+Disallowed
+Disallowed
+
+Task Groups
+Disallowed
+Disallowed
+
+Labor Forecast Limits
+Disallowed
+Disallowed
+
+Labor Distribution Groups
+Disallowed
+Disallowed
+
+Labor Distribution Group Profiles
+Disallowed
+Disallowed
+
+Forecasting Category Profile
+Disallowed
+Disallowed
+
+Combined Distribution
+Disallowed
+Disallowed
+
+Labor Constraints
+Disallowed
+Disallowed
+
+Labor Constraint Profiles
+Disallowed
+Disallowed
+
+ Forecast Planner
+Disallowed
+
+ Forecast Planner Profile
+Disallowed
+
+Operational Dashboard Metrics and KPIs
+Disallowed
+Disallowed
+
+Request Setup
+Disallowed
+
+Pay Code Values Profiles
+Disallowed
+Disallowed
+
+Day Type Equivalence Values
+Disallowed
+Disallowed
+
+Approval
+Disallowed
+Disallowed
+
+Request Subtype Transitions
+Disallowed
+Disallowed
+
+Half Day Rules
+Disallowed
+
+Holiday and Unscheduled Day Request Setting
+Disallowed
+Disallowed
+
+Partial Shift Setup
+Disallowed
+Disallowed
+
+Visibility Period Actions
+Disallowed
+Disallowed
+
+ Universal Device Manager
+Disallowed
+
+ Universal Device Manager components in Timekeeper
+Disallowed
+
+ Universal Device Manager Setup
+Disallowed
+
+ Universal Device Manager Monitoring
+Disallowed
+
+ TeleTime IP Setup
+Disallowed
+
+ Universal Device Manager delete biometric templates
+Disallowed
+
+  Batch Processing
+Disallowed
+
+Batch Tasks
+Disallowed
+Disallowed
+
+Batch Events
+Disallowed
+Disallowed
+
+Batch Groups
+Disallowed
+Disallowed
+
+Minor Rule Sets
+Disallowed
+Disallowed
+
+School Calendars
+Disallowed
+Disallowed
+
+Document Templates Access
+Disallowed
+
+Dataview Profile
+Disallowed
+Disallowed
+Disallowed
+
+Home Page Management
+Disallowed
+Disallowed
+Disallowed
+
+ Statutory Reporting
+Disallowed
+
+ Muster Roll Leave Codes
+Disallowed
+
+ Average Pay Rates
+Disallowed
+
+Create Average Pay Rate Sets
+Disallowed
+Disallowed
+
+Wifi Networks
+Disallowed
+
+Wifi Access Points
+Disallowed
+
+  Event/Notification
+Disallowed
+
+ Control Center Profile
+Disallowed
+
+ Alert Profile
+Disallowed
+
+Control Center Notification Mapping
+Disallowed
+Disallowed
+
+Kiosk Setup
+Disallowed
+
+QR Codes
+Disallowed
+Disallowed
+
+Data Hub
+Disallowed
+
+ Configuration Portal
+Disallowed
+
+Retrieve Hidden Pay Code Edits via API
+Disallowed
+
+ Manager  System Configuration
+Disallowed
+
+Set up workflow notifications
+Disallowed
+
+Activities Integration API
+Disallowed
+
+System Information
+Disallowed
+
+Log Report
+Disallowed
+
+System Settings
+Disallowed
+
+ Setup
+Disallowed
+
+ Access Profiles setup
+Disallowed
+
+Data Access Profiles
+Disallowed
+
+Generic Data Access Profiles
+Disallowed
+
+Function Access Profiles
+Disallowed
+
+Logon Profiles
+Disallowed
+
+ Accruals setup
+Disallowed
+
+ Comments setup
+Disallowed
+
+ Retention Policies
+Disallowed
+
+ Limited Policy Monitor
+Disallowed
+
+ Limited Policy Results
+Disallowed
+
+Display Preferences setup
+Disallowed
+
+Display Profiles
+Disallowed
+
+Sitedefined labels
+Disallowed
+
+ Pay Rules setup
+Disallowed
+
+ Currency Policy
+Disallowed
+
+ Locale Policy
+Disallowed
+
+ Setup Data
+Disallowed
+
+ Notification Profile
+Disallowed
+
+ Statutory Reporting
+Disallowed
+
+ Employment Terms setup
+Disallowed
+
+Integrations setup
+Disallowed
+
+Connections
+Disallowed
+
+Extension database setup
+Disallowed
+Disallowed
+
+ Cost Center Maintenance setup
+Disallowed
+
+ Labor Category setup
+Disallowed
+
+ Labor Category Entries List setup
+Disallowed
+
+ Transfer Display Profiles setup
+Disallowed
+
+ Team Setup
+Disallowed
+
+ Attestation Setup
+Disallowed
+
+Employee Group setup
+Disallowed
+Disallowed
+Disallowed
+
+ Exception Category and Tile Setup
+Disallowed
+
+ Business Structure Attributes setup
+Disallowed
+
+Batch Configuration
+Disallowed
+
+  Adjustment Rules
+Disallowed
+
+ Bonus Configuration
+Disallowed
+
+ Wage Configuration
+Disallowed
+
+ Adjustment Rules Job
+Disallowed
+
+Percent Allocation Configuration
+Disallowed
+
+Percent Allocation Jobs
+Disallowed
+
+Rest Between Shifts Configuration
+Disallowed
+
+Time Zones
+Disallowed
+
+Security Alerts
+Disallowed
+
+ KPI Builder Setup
+Disallowed
+
+Mapping Categories
+Disallowed
+Disallowed
+Disallowed
+
+Metrics
+Disallowed
+Disallowed
+Disallowed
+
+KPIs
+Disallowed
+Disallowed
+Disallowed
+
+ Historical Load
+Disallowed
+
+ Target Management
+Disallowed
+
+Standard Target Management
+Disallowed
+
+Healthcare Productivity Target Management
+Disallowed
+
+ Healthcare Productivity
+Disallowed
+
+Setup Data Management
+Disallowed
+
+Configuration App
+Disallowed
+
+Edit System Settings Service
+Disallowed
+
+Seed User Configuration
+Disallowed
+
+Support Users Configuration
+Disallowed
+
+Event Connector Service
+Disallowed
+
+Custom Tile
+Disallowed
+
+HCM Profile Setup
+Disallowed
+
+Known IP Address
+Disallowed
+
+Access Method Profile
+Disallowed
+
+Feature Switch
+Disallowed
+
+Fiscal Calendar Import
+Disallowed
+
+Healthcare Productivity Service
+Disallowed
+
+Production Readiness
+Disallowed
+Disallowed
+
+Data Import Tool
+Disallowed
+
+ Import Only
+Disallowed
+
+ Export Only
+Disallowed
+
+ APIs
+Disallowed
+
+XML
+Disallowed
+
+API Beans
+Disallowed
+
+Access Profile Beans
+Disallowed
+
+Accruals Beans
+Disallowed
+Disallowed
+
+ Event Manager Beans
+Disallowed
+
+Hyperfind Beans
+Disallowed
+
+Labor Level Beans
+Disallowed
+Disallowed
+
+Person Beans
+Disallowed
+Disallowed
+Disallowed
+
+ Report Beans
+Disallowed
+
+Schedule Beans
+Disallowed
+Disallowed
+
+Timecard Beans
+Disallowed
+Disallowed
+
+ Workflow Beans
+Disallowed
+
+ Table Import Beans
+Disallowed
+
+Audit Beans
+Disallowed
+
+Common Beans
+Disallowed
+
+Data Access Beans
+Disallowed
+Disallowed
+
+Menu Beans
+Disallowed
+
+Bulk Summary Beans
+Disallowed
+
+Business Structure & Job Beans
+Disallowed
+Disallowed
+
+ MobileTime® Maintenance Beans
+Disallowed
+
+ Deduction Rules Beans
+Disallowed
+
+ Fingerscan Bean
+Disallowed
+
+Transaction Assistant Beans
+Disallowed
+Disallowed
+Disallowed
+
+ HR/Payroll Beans
+Disallowed
+
+ Access to Process Manager data
+Disallowed
+
+Check Advice Beans
+Disallowed
+
+Forecast Beans
+Disallowed
+Disallowed
+
+TeleTime IP Bean
+Disallowed
+Disallowed
+
+ Domain Event Navigation
+Disallowed
+
+ Domain Event Category
+Disallowed
+
+ Data Dictionary Metadata
+Disallowed
+
+Manager  Default API Edit Self
+Disallowed
+
+Audit Items Access APIs
+Disallowed
+Disallowed
+
+Log writer service API
+Disallowed
+
+Log context update API
+Disallowed
+Disallowed
+
+Allow unrestricted read access to locations map
+Disallowed
+
+Initiate Business Processes API
+Disallowed
+
+ Rest API
+Disallowed
+
+ Setup
+Disallowed
+
+ Pay Code Name List
+Disallowed
+
+ Comments API setup
+Disallowed
+
+ Employee Comments
+Disallowed
+
+ Pending Corrections
+Disallowed
+
+Punch Extract API
+Disallowed
+
+ Allow access to notification actions execute API
+Disallowed
+
+ Missing External Identifier Read
+Disallowed
+
+ Punch on Behalf of Employee
+Disallowed
+
+ Employee Preferences Assignments Read
+Disallowed
+
+ Run Scheduling Engines
+Disallowed
+
+ Retrieve Symbolic Reviewers and Listeners
+Disallowed
+
+ Invalidate Cover Request API
+Disallowed
+
+ Pattern Template Profile Assignments Read
+Disallowed
+
+ Schedule Group Profile Assignments Read
+Disallowed
+
+ Worker Type Assignments Read
+Disallowed
+
+ Predictive scheduling
+Disallowed
+
+ Shift Template Profile Assignments Read
+Disallowed
+
+ Schedule Rule Evaluation API
+Disallowed
+
+ Current User Information API
+Disallowed
+
+ Selfscheduling with Shift Templates
+Disallowed
+
+ External Identifier
+Disallowed
+
+ Notification API V2
+Disallowed
+
+ Lightweight Employee Records API
+Disallowed
+
+ Bypass predictive rules processing via API
+Disallowed
+
+Employee Photo
+Disallowed
+
+ Automatic Signoff Read API
+Disallowed
+
+ School Calendar Profile Assignments Read
+Disallowed
+
+ Notification API V1
+Disallowed
+
+ Schedule Score
+Disallowed
+
+ Edit Employee Assignment
+Disallowed
+
+ Read Employee Assignment
+Disallowed
+
+ Employee Availability Requests
+Disallowed
+
+ Hyperfind Setup API
+Disallowed
+
+ Employee Punch Interpretation Rule Assignment API
+Disallowed
+
+ Annotation API
+Disallowed
+
+ Wage Service API
+Disallowed
+
+ Employee Insights
+Disallowed
+
+com.kronos.wfc.wtk.accessprofiles.business.functionaccessprofiles.ACPName.ALLOW_ACCESS_TO_INTERNAL_API 
+Disallowed
+
+Core Permissions
+Disallowed

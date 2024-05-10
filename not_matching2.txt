@@ -1,0 +1,836 @@
+Ad hoc labor level entries
+Open an online form
+Start a business process
+View the Inbox
+Access to task list
+Messaging Access
+Create a new message
+Reply to a message
+Open a message
+Allow extended authentication on mobile device
+Extended authentication on mobile available without local authentication
+Local authentication on mobile available without fingerprint authentication
+Workforce Employee
+Time Stamp for Employees
+Transfers in Time Stamp
+Perform account transfers
+Perform work rule transfers
+Perform job transfers
+Cancel meal deductions in Time Stamp
+Log off after stamping
+Restrict punches based on punch restriction rules
+Record time stamp using badge number
+Allow punch from mobile application
+Punch from mobile available without local authentication
+Local authentication on mobile available without fingerprint authentication
+Allow badge entry from mobile application
+Calendar views for employees
+Timecard Editor for Employees (My Timecard)
+Allow negatives in My Timecard
+Approval in My Timecard
+Approval in My Timecard-Add
+Approval in My Timecard-Remove
+Approve overtime
+Request overtime
+Delete overtime request
+Cancel meal deductions in My Timecard
+Comments in My Timecard
+Notes for Comments in My Timecard
+Display day before and day after in My Timecard
+Hours Worked and Duration amounts in My Timecard
+Hours Worked and shift override in My Timecard
+Historical edits in My Timecard
+Manual edits
+Automated edits
+Move Amount
+E-mail access in My Timecard
+Resolve Exceptions in My Timecard
+Move Amounts in My Timecard
+Justify My Missed Time Exceptions
+Punch edits in My Timecard
+Sign-off in My Timecard
+Signoff in My Timecard-Add
+Signoff in My Timecard-Remove
+Calculate totals in My Timecard
+Totals breakdown in My Timecard
+Calculate totals on-the-fly in My Timecard
+View totals by job in My Timecard
+Transfers in My Timecard
+View transfers
+Perform account transfers
+Perform work rule transfers
+Perform job transfers
+View schedules in My timecard
+Edit non-active days in My Timecard
+Accruals in My Timecard
+Move accruals in My Timecard
+Reset accruals in My Timecard
+Edits using scheduled amounts in My Timecard
+Reports in Timecard Editor
+Print Time Detail Report in My Timecard
+Rule Analysis Tool Report in Timecard editor
+View the Audit Trail Tab in My Timecard
+Edits using contract amounts in My Timecard
+Display Only the Default Span in the Totals Add-on in My Timecard
+Quick Leave Editor in My Timecard
+Quick Leave Editor Access
+Transfers in Quick Leave Editor
+Perform Account Transfers
+Perform Job Transfers
+Activities in My Timecard
+Allow negatives in Activities
+Event edits in Activities
+Result edits in Activities
+Approval of Activities
+Approval of Activities-Add
+Approval of Activities-Remove
+Comments in Activities
+Notes For Comments in Activities
+Totals breakdown in Activities in My Timecard
+Copying of Activities
+Disable copying of Activities in My Timecard
+Copy all event details default
+Block Future-Dated Allocations on timecard save and approval
+Standards Edits in Activities
+Change Status of Activities
+Allow Entry of Durations as Hours in My Timecard
+Allow Entry of Durations For Selected Time Period in My Timecard
+Reports for Employees (My Reports)
+My Time Detail
+My Accrual Balances
+My Schedule
+Earning history for Employees
+My Availability
+E-mail Notifications to Employees
+E-mail when timecard edit occurs after employee's approval
+E-mail when timecard is approved
+E-mail when timecard is signed-off
+Employee access to My Actions list
+Punch restrictions based on location
+Allow punch with NFC
+Allow punch with GPS
+Employee access to My Bids
+Location Data
+Record location data
+View location data
+Punch from mobile without location
+Punching outside of Known Place
+Notifications based on Known Place
+Attendance Editor for Employees (My Attendance)
+Summary Tab
+Balances view
+Perfect attendance view
+Actions view
+Discipline levels view
+Incidents tab
+Action details tab
+Audits tab
+Perfect attendance definitions
+Source policy
+Apply rules in Attendance Editor
+Edit attendance events
+Edit attendance events and their time
+Change points/occurrences for attendance events
+Use manual adjustments
+Complete attendance actions
+Delete attendance actions
+Action detail field
+Calendar tab
+Delete attendance balance reset
+Attendance Documents
+Regenerate documents
+Forward documents
+Enable self scheduling Scheduling Editor
+Enable self scheduling Staffing Editor
+Enable location schedule
+Edit manager assigned shifts
+Leave Cases for Employees
+View leave cases
+Process manager tasks in leave cases
+General tab
+Leave requests tab
+Leave calendar tab
+Takings list tab
+Audits tab
+My Leave Requests
+Activity Form Entry
+Access unposted schedule
+Activity Event Monitor
+Schedule Acceptance
+My Requests
+Enable attachments in Requests
+Offline mobile
+Edits to signed off time
+Edit signed off time
+Allow override of Include In Totals
+Allow override of correction money pay code
+Allow override of correction effective date
+Allow delete of corrections
+Allow untotalized historical corrections
+Allow override account transfer for untotalized corrections
+Edit Activity Events in signed off time
+Document Upload
+Workforce ManagerDepartment Manager
+Analytics
+Analytics for Managers
+Analytics Reports
+Analytics VIP
+My Genies®
+Apply group edit to self
+Accruals payout
+Accruals reset
+Accruals suspensions & reinstatements
+Accruals transfer
+Accruals update earned
+Allow negatives in Genies
+Group approval of timecards
+Group approval of timecards-Add
+Group approval of timecards-Remove
+Group approval of timecards-Remove All
+Edit data after non account approval by self
+Edit data after non account approval by others
+Approve overtime
+Comments in Genies
+Working Time Directive Assignment in Genies
+Notes for comments in Genies
+Hours Worked and Duration amounts in Genies
+Hours Worked and shift override in Genies
+Filter by Selected Job Seniority
+Historical edits in Genies
+Manual edits
+Automated edits
+E-mail access in Genies
+Pay code edits in Genies
+Payroll lock in Genies
+Payroll Preparation in Genies
+Run Payroll Preparation
+Lock Payroll Preparation
+Unlock Payroll Preparation
+Pay from Schedule in Genies
+Start Pay from Schedule
+Stop Pay from Schedule
+Punch edits in Genies
+Sign-off in Genies
+Sign-off in Genies-Add
+Sign-off in Genies-Remove
+Transfers in Genies
+Perform account transfers
+Perform work rule transfers
+Perform job transfers
+Edits using scheduled amounts in Genies
+Overtime Equalization in Genies
+Edit non-active days in Genies
+Schedule Group Edit
+Comment in schedule paycode
+Notes for comments in schedule paycode
+Comment in schedule shift
+Notes for comments in schedule shift
+Schedule shift
+Add shift
+Replace shift
+Append shift
+Insert transfer
+Schedule pay code edit
+Schedule pattern
+Delete all schedule patterns
+Schedule day lock
+Groups
+Add to group
+Remove from group
+Override punch restrictions
+Edits using contract amounts
+Override of accruals days
+Start Time on pay code edits
+Attendance in Genies
+Apply Rules in Genies
+Navigate to Attendance Editor from Genies
+Use Manual Adjustments in Genies
+Complete Attendance Actions in Genies
+Delete Attendance Actions in Genies
+Scheduling
+Schedule access
+Schedule Views
+Employee View of Schedule
+Group View of Schedule
+Job View of Schedule
+Hours/Volume Tab
+View Budget Row
+View Schedule Row
+View Target Row
+View Actual Row
+View Variance Row
+Location Selection from Schedule Editor
+Pay Code Comments in Schedules
+Notes for Pay Code Comments in Schedules
+Schedule pay code edits
+View audit trails in Schedules
+View Accruals in Schedule
+Accruals in Schedule Editor
+Quick Leave Editor in Schedules
+Quick Leave Editor Access
+Transfers in Quick Leave Editor
+Perform Account Transfers
+Perform Job Transfers
+Transfers in Schedules
+Perform account transfers
+Perform work rule transfers
+Perform job transfers
+Schedule Shift Comments
+Notes for Schedule Shift Comments
+Mark Schedule Posted
+Mark Schedule Unposted
+Availability
+Workload Planner
+Baseline Pattern View
+Baseline Calendar View
+Adjusted Pattern View
+Adjusted Calendar View
+Budgeted Volume View
+Projected Volume View
+Actual Volume View
+Earned Calendar View
+Import Past Volume Data
+Generate Workload
+Lock Volume
+Skill and Certification Pattern View
+Skill and Certification Calendar View
+Manage Schedule Sign Ups
+Run Priority Scheduling Engine
+Run Schedule Generator Engine
+Schedule pay code edits in full days
+Run Auto-Scheduler
+Lock Shifts
+Assign Breaks
+Delete Shifts using Multi-Edits
+Schedule Day Lock
+Shift builder results
+Schedule Template
+Schedule Template Rollout
+Work Week
+Create Work Week
+Assign Work Week
+Shift Profile Sets
+Schedule pay code edits in half days
+Shift Profiles
+Pay Code Edits using Contract Amounts
+Pay Code Edits using Pattern Day
+Enter Time Off
+Override accrual amounts for Pay Code Edits
+Add to Schedule Group
+Remove from Schedule Group
+Edit Group Schedules
+Request Setup
+Enable attachments in Requests
+Request Submission Control
+Request Period Extended Access
+Open Shifts Visibility Control
+Override Value Profiles
+Day Type Equivalence Values
+Approval
+Request Subtype Transitions
+Half Day Rules
+Holiday And Unscheduled Day Request Settings
+Override Default Holiday Request Setting
+Request Time Periods
+Employee Call Log
+Manager Cannot Approve Requests Outside of Employee Request Periods
+Group Edit Results
+Calendar views for Managers
+Timecard Editor for Managers
+Timecard access
+Allow negatives in Timecard Editor
+Approval in Timecard Editor
+Approval in Timecard Editor-Add
+Approval in Timecard Editor-Remove
+Approval in Timecard Editor-Remove All
+Edit data after non account approval by self
+Edit data after non account approval by others
+Approve overtime
+Delete overtime request
+Approve overtime request
+Cancel meal deductions in Timecard Editor
+Comments in Timecard Editor
+Notes for Comments in Timecard Editor
+Add or Remove
+Remove Notes added by Others
+Display day before and day after in Timecard Editor
+Hours Worked and Duration amounts in Timecard Editor
+Hours Worked and shift override in Timecard Editor
+Historical edits in Timecard Editor
+Manual edits
+Automated edits
+Automated edits-Move Amount
+Pay codes in Timecard Editor
+Pay codes in Timecard Editor-Edit
+Pay codes in Timecard Editor-View
+Pay codes in Timecard Editor-Move Amount
+Override of accruals days
+Start Time on pay code edits
+Resolve Exceptions in Timecard Editor
+Justify Missed Time Exceptions
+Mark Exceptions Reviewed in Timecard Editor
+Quick Leave Editor in Timecard Editor
+Quick Leave Editor Access
+Transfers in Quick Leave Editor
+Perform Account Transfers
+Perform Job Transfers
+Punch edits in Timecard Editor
+Sign-off in Timecard Editor
+Add
+Remove
+Calculate totals in Timecard Editor
+E-mail access in Timecard Editor
+Totals breakdown in Timecard Editor
+Calculate totals on-the-fly in Timecard Editor
+View Totals by Job in Timecard Editor
+Transfers in Timecard Editor
+View transfers
+Perform account transfers
+Perform work rule transfers
+Perform job transfers
+View schedules in Timecard Editor
+Edit non-active days in Timecard Editor
+Accruals in Timecard Editor
+Move Accruals in Timecard Editor
+Reset Accruals in Timecard Editor
+Print Time Detail Report in Timecard Editor
+Rule Analysis Tool Report in Timecard editor
+View the Audit Trail Tab in Timecard Editor
+Edits using contract amounts in the Timecard Editor
+Display Only the Default Span in Totals Add-on in the Timecard Editor
+Use Employee Profile Sets
+Enable Job Transfer Validation
+Activities in Timecard Editor
+Allow negatives in Activities
+Event edits in Activities
+Result edits in Activities
+Approval in Activities
+Approval in Activities-Add
+Approval in Activities-Remove
+Comments in Activities
+Notes For Comments in Activities
+Notes For Comments in Activities-Add or Remove
+Remove Notes added by Others
+Totals breakdown in Activities in Timecard Editor
+Copying of Activities
+Disable copying of Activities in Timecard Editor
+Copy all event details default
+Block Future-Dated Allocations on timecard save and approval
+Standards Edits in Activities
+Change Status of Activities
+Allow Entry of Durations For Selected Time Period in Timecard Editor
+Reports
+Run reports
+Report scheduling
+Report setup
+Report Setup Access
+High priority reporting
+Report status
+Only Self
+Validate Template
+E-mail Notifications to Managers
+E-mail a completed group edit
+E-mail when a group edit was not completed
+E-mail when event status has changed
+Manager access to Actions list
+Toke Amount Entry
+Offline mobile
+Attendance Editor for Managers
+Attendance Editor access
+Summary Tab
+Balances view
+Perfect Attendance view
+Actions view
+Discipline Levels view
+Incidents tab
+Action details tab
+Audits tab
+Perfect attendance definitions
+Source policy
+Apply rules in Attendance Editor
+Edit attendance events
+Edit attendance events and their time
+Change points/occurrences for attendance events
+Use manual adjustments
+Complete attendance actions
+Delete attendance actions
+Action Details field
+Calendar tab
+Attendance Documents
+Regenerate documents
+Forward documents
+Delete attendance balance reset
+Location Data
+Record location data
+View location data
+Access to Bid Editor
+Create vacation bid requests
+Leave Cases For Managers
+Leave Case Access
+Add Leave Cases
+Delete Leave Cases
+Process manager tasks in leave cases
+General tab
+Leave Case Summary
+Leave Case Status
+Leave Case Dates
+Leave Category
+Reason
+Leave Frequency
+Leave Case Code
+Leave Case Approval Status
+Details
+Additional Information
+Eligibility & Leave Types
+Check Eligibility
+Bypass Eligibility Check
+Grant Leave
+Leave Types Selection
+Documents
+View Documents
+Regenerate Documents
+Forward Documents
+Leave Certifications
+View Document Status
+Edit Document Status
+Leave Notifications
+Employment Status
+Leave Rules
+Assign Leave Rules
+View Leave Rule Configuration
+Edit Paid Part of Leave Rule
+Edit Unpaid Part of Leave Rule
+Leave requests tab
+Add Projected Leave Time from Request
+Delete Leave Requests
+Leave calendar tab
+Takings list tab
+Audits tab
+Paid Projections - Add, Edit, Delete
+Unpaid Projections - Add, Edit, Delete
+Commit Leave takings
+Commit Paid Takings
+Commit Unpaid Takings
+Commit to Schedule
+Perform Scheduled Transfers
+Job Transfers
+Account Transfers
+Availability
+Commit to Timecard
+Perform Timecard Transfer
+Job Transfers
+Account Transfers
+Apply Attendance Rules
+Accrual Transition Manager
+Mobile Contact
+Scheduling
+Fill Open Shift
+Edits to signed off time
+Edit signed off time
+Allow override of Include In Totals
+Allow enable edits for employees
+Approve requests in signed off time
+Allow override of correction money pay code
+Allow override of correction effective date
+Allow delete of corrections
+Allow untotalized historical corrections
+Allow override account transfer for untotalized corrections
+Allow disable edits for employees
+Edit Activity Events in signed off time
+Workforce Manager - Common Setup
+HyperFind
+Query conditions
+Display Organizational Map & Job Information in HyperFind
+General Information category
+Timekeeper category
+Time Management category
+Biometric category
+Scheduler category
+Advanced Scheduler category
+Activities category
+Leave Management category
+User Information category
+Role - Timekeeper category
+Workforce Leave category
+Process Manager
+Attendance Category
+TeleTime IP category
+Query tabs
+Assemble Query tab
+View SQL tab
+Query visibility
+Ad hoc queries
+Personal queries
+Public queries
+Query Manager
+People Editor
+Person
+Person-Delete
+Delete without transactions
+Delete with transactions
+Display Organizational Map & Job Fields in the People Editor
+Person Tab
+License view
+General Information view
+Birth date
+Person name
+Person ID
+Hire date
+Employment status
+Skills & Certifications view
+Skills on a person
+Certifications on a person
+Accruals and Leave
+Accrual profile
+Full-Time equivalency
+Leave Management
+User Information view
+Access user account
+User name
+Other fields
+User account status
+Lock out access control
+Archive access control
+Contacts view
+Address
+E-mail
+Telephone
+Generic Workflows
+Social Account
+Additional Information view
+Person's Dates
+Assign process profiles
+Working Time Directive Assignment
+Approvals & Reviewers view
+Job Assignment Tab
+Primary Account view
+Primary Labor Account
+Primary Organizational Job
+Time Zone
+Reports To
+Reports To Field
+Manager ID Column
+Seniority Date
+Percent Allocation Assignment
+Adjustment Rule Assignment
+Timekeeper view
+Personal Overtime view
+Scheduler view
+Activity view
+Access Profiles view
+Manager Role - General view
+Manager Role - Schedule view
+Employee Role view
+Tips and Tokes view
+Tip Compliance Assignment
+Toke Pool Rule Assignment
+Schedule Rule Overrides
+Attendance View
+Employment Terms view
+TeleTime IP view
+Auto-Scheduler view
+Employee Self Service View
+Organizational Set Editor
+Labor Level Set Editor
+Jobs and Organizational Map
+Location Types Tab
+Job & Organizational Map Setup Tabs
+Smart Operations
+Smart Copy
+Smart Move
+Worker Type
+Event Manager
+Add batch event
+Change user
+Individual events
+Event Manager
+Add batch event
+Change user
+Individual events
+Table Import
+Create and run table import batches
+Delete table import data
+Schedule table import batches
+Stop/restart table import batches
+Transaction Assistant
+Workforce Record Manager
+Workforce Record Manager access
+Purge Override
+Cancel
+Record Locator
+Locator Editor
+Delete Database
+Biometrics
+Access to Biometrics Administration
+Schedule Configuration
+Availability
+Availability Templates
+Association of Availability Templates with Organizational Locations
+Schedule Rules
+Schedule Event Based Rules
+Schedule Assistant Criteria Sets
+Rotation Profiles
+Skills & Certifications
+Certifications
+Skills
+Proficiency Levels
+Skill & Certification Profiles
+Workload Setup
+Schedule Zone Sets
+Workload Shift Sets
+Workload Planner Profiles
+Pattern Templates Configuration
+Schedule Period Configuration
+Shift Template Configuration
+Schedule Groups Configuration
+Create schedule groups
+Delete schedule groups
+Edit Group Names
+Shift Segment Details
+Create Shift Segment Details
+Auto-Scheduler Option Sets
+Minor Rule Sets
+School Calendars
+Scheduler Profiles
+Auto-Scheduler Option Set Profiles
+School Calendar Profiles
+Sorting and Matching
+View Audit Trails in Priority Scheduling Engine
+Location Settings
+Metrics Setup
+Work Set
+Work Set Types
+Job Groups Configuration
+Staffing Matrix Configuration
+Weight Set Configuration
+Day Type Configuration
+HyperFind Profiles
+Activity Configuration
+Activity Setup
+Activities
+Activity Settings
+Grant and Project Settings
+Dynamic Allocation Pay Code Action Access
+Process Manager setup
+Process Administrator access
+Add templates to process profiles
+Activate process templates
+Web Service Configuration access
+Calendar Views Setup
+Delegate Profiles
+Override Alert Event Configuration
+Role Profiles
+Access Method Profiles
+Data Integration
+Data Integration Access
+Delete Interfaces
+View data integration results for all users, in addition to your own results
+View output files displayed in Interface Run Summary
+Lookup Tables
+Data Integration Results Access
+Workforce Attendance Setup
+Workforce Leave Setup
+Navigator Framework
+Import Feature
+Brazil Device Setup
+Reviewer Lists and Reviewer Purposes
+Document Upload
+Valid Labor Accounts
+Known Places
+Question Profile
+Alert Event Configuration
+Role Editor
+Batch Processing
+Batch Tasks
+Batch Events
+Batch Processing
+{BrandingName_Workforce_Device_Manager}
+{BrandingName_Workforce_Device_Manager} Setup
+{BrandingName_Workforce_Device_Manager} Display
+TeleTime IP
+TeleTime IP Setup
+Access to data older than last archive date
+Custom Time Period
+Workforce Manager - System Configuration
+Set up workflow notifications
+System Information
+Log Report
+System Settings
+System Settings-Setup
+Access Profiles setup
+Data Access Profiles
+Generic Data Access profile
+Function Access Profiles
+Logon Profiles
+Accruals setup
+Comments setup
+Retention Policies
+Limited Policy Monitor
+Limited Policy Results
+Display Preferences setup
+Display Profiles
+Site-defined labels
+Labor Level Maintenance setup
+Pay Rules setup
+Wage Profiles setup
+Currency Policy
+Locale Policy
+Translation Support
+Notification Profile
+Statutory Reporting
+Employment Terms setup
+Social Channel
+Team Setup
+Feature Switch Configuration
+Data Integration Setup
+Connections
+Mapped Folders
+Working Time Directive Configuration
+Rest Between Shifts Configuration
+Percent Allocation Configuration
+Percent Allocation Jobs
+Tips and Tokes
+Toke Pool Rules
+Tip Compliance Configuration
+Tip Compliance Job
+Adjustment Rules
+Bonus Configuration
+Wage Configuration
+Adjustment Rules Job
+Batch Configuration
+Server Role Access
+Zero Down Edit Access
+Zero Down Run Access
+Time Zones
+Security Alerts
+Security Audit Data Export
+APIs
+XML
+API Beans
+Access Profile Beans
+Accruals Beans
+Event Manager Beans
+HyperFind Beans
+Labor Level Beans
+Person Beans
+Report Beans
+Schedule Beans
+Timecard Beans
+Workflow Beans
+Table Import Beans
+Audit Beans
+Common Beans
+Data Access Beans
+Menu Beans
+Bulk Summary Beans
+Organizational Structure & Job Beans
+Activity Beans
+Deduction Rules Beans
+Fingerscan Bean
+Transaction Assistant Beans
+Access to Process Manager data
+Check Advice Beans
+Feature Switch Bean
+Device Manager beans
+TeleTime IP Bean
+Workforce Manager - Default API Edit Self
